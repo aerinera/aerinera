@@ -20,8 +20,6 @@
 
 <!-- Tech Stack ve GIF hizalı -->
 <h3 align="left">Languages</h3>
-
-
 <p>
   <!-- Sol: Languages -->
   <img align="left" src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs&perline=5" alt="Language Icons" />
@@ -34,8 +32,6 @@
 <hr style="margin: 40px 0;" />
 
 <h3 align="left">Tools</h3>
-<br>
-
 <p>
   <!-- Sol: Tools -->
   <img align="left" src="https://skillicons.dev/icons?i=git,docker,vscode,linux,postgres,mongodb&perline=5" alt="Tool Icons" />
