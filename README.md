@@ -22,7 +22,7 @@
   <img align="left" src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,docker,vscode,linux,postgres,mongodb&perline=5" alt="Skill Icons" />
 
   <!-- Sağ: GIF -->
-  <img align="right" src="https://media.giphy.com/media/3ohs7KViFQAf3Fp8xi/giphy.gif" alt="Thanks GIF" width="240" />
+  <img align="right" src="myImages/cgif1.gif" alt="Thanks GIF" width="440" />
 </p>
 
 <br clear="both" />
