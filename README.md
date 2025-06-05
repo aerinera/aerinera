@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <!-- Replace with your own futuristic/dark-themed banner GIF -->
-  <img src="myImages/swd.png" />
+  <img src="myImages/swd3.png" />
 </div>
 <br>
 <img src="./image/line1.gif" alt="Divider" height="80px" width="100%" />
