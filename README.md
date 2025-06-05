@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Büyük banner resmi -->
-<img src="myImages/swd3.png" alt="Banner" width="90%" style="border-radius: 12px; margin: 16px 0;" />
+<img src="myImages/bga1.png" alt="Banner" width="90%" style="border-radius: 12px; margin: 16px 0;" />
 
 </div>
 
