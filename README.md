@@ -47,7 +47,7 @@
 
 <!-- Contact Me Bölümü-->
 
-<!-- Alya görseli sağ üstte sabit gibi dursun -->
+<!-- Image  -->
 <img src="myImages/alya.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
 
 <!-- Ortalanmış şiir gibi yazı -->
