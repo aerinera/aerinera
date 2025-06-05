@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Anime Tech Banner" width="100%" />
 
-<h1 align="center">Hi there, I'm Baran Sağlam 👋</h1>
+<h1 align="center">Hi there, I'm  Aerin 👋</h1>
 
 I'm a Full-Stack Web & AI Developer passionate about building performant and elegant solutions with modern technologies and a love for anime aesthetics.
 
