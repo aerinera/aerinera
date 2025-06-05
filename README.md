@@ -22,7 +22,9 @@
 <h3 align="left">Languages</h3>
 <p>
   <!-- Sol: Languages -->
-  <img align="left" src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs&perline=5" alt="Language Icons" />
+<img align="left" src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,cs&perline=5" alt="Language Icons" />
+
+
 
   <!-- Sağ: GIF -->
   <img align="right" src="myImages/cgif1.gif" alt="Languages GIF" width="440" />
