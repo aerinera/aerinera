@@ -65,11 +65,16 @@
   
 
 
-<br> <br> 
+<br clear="both" />
+
 
 
 <!-- Son GIF ve mesaj -->
-<h2 align="center">👋 Bye 👋</h2>
+
+
 <div align="center" style="margin-top: 20px;">
+  <hr style="margin: 40px 0;" />
+  <h3 align="center">👋 Bye👋 </h3>
+  <br>
   <img src="myGifs/bye2.gif"/>
 </div>
