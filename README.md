@@ -62,14 +62,23 @@
 𝓭𝓸𝓷’𝓽 𝓱𝓮𝓼𝓲𝓽𝓪𝓽𝓮 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓸𝓾𝓽— </br>
 𝓘’𝓶 𝓳𝓾𝓼𝓽 𝓪 𝓶𝓮𝓼𝓼𝓪𝓰𝓮 𝓪𝔀𝓪𝔂. </br> 
 </p>
+
+ <!-- Sosyal medya ikonları -->
+<p align="center">
+  <a href="https://discordapp.com/users/1298381140050186261" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
+  </a>
+</p>
 </div>
-  <!-- Sosyal medya ikonları -->
-  
 
 
 <br clear="both" />
 
-
+ 
 
 <!-- Son GIF ve mesaj -->
 
