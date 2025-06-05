@@ -1,13 +1,11 @@
 <div align="center">
 
 <!-- Büyük banner resmi -->
-<img src="myImages/bga1.png" alt="Banner" width="90%" style="border-radius: 12px; margin: 16px 0;" />
+<img src="myGifs/bga3.gif" alt="Banner" width="45%" style="border-radius: 12px; margin: 5px 0;" />
 
 </div>
 
 <!-- Kısa tanıtım -->
-## Hey there! <img height="25" alt="wave" src="https://raw.githubusercontent.com/twitter/twemoji/main/assets/72x72/1f44b.png" />
-
 ##### I'm Aerin, a full stack web developer and AI enthusiast.  
 ##### Passionate about building clean, efficient code and exploring new technologies.  
 ##### I love anime, tech, and good coffee.
