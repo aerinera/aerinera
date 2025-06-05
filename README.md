@@ -69,8 +69,7 @@
 
 
 <!-- Son GIF ve mesaj -->
-
+<h2 align="center">👋 Bye 👋</h2>
 <div align="center" style="margin-top: 20px;">
-  <h2 align="center">👋 Bye 👋</h2>
   <img src="myGifs/bye2.gif"/>
 </div>
