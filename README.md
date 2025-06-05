@@ -61,19 +61,16 @@
 𝓘𝓯 𝔂𝓸𝓾 𝓱𝓪𝓿𝓮 𝓪 𝓽𝓱𝓸𝓾𝓰𝓱𝓽 𝓸𝓻 𝓲𝓭𝓮𝓪, </br>
 𝓭𝓸𝓷’𝓽 𝓱𝓮𝓼𝓲𝓽𝓪𝓽𝓮 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓸𝓾𝓽— </br>
 𝓘’𝓶 𝓳𝓾𝓼𝓽 𝓪 𝓶𝓮𝓼𝓼𝓪𝓰𝓮 𝓪𝔀𝓪𝔂. </br> 
-</p>
 
+<br>
  <!-- Sosyal medya ikonları -->
 <p align="center">
-  <a href="https://discordapp.com/users/1298381140050186261" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" alt="Discord" />
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
 </p>
-</div>
+
+
 
 
 <br clear="both" />
