@@ -50,7 +50,7 @@
 <!-- Image  -->
 <img src="myImages/alya.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
 
-<!-- Ortalanmış şiir gibi yazı -->
+<!--yazı -->
  <div align="center">
  <p">
  𝓘’𝓶 𝓼𝓸𝓶𝓮𝓸𝓷𝓮 𝔀𝓱𝓸’𝓼 𝓪𝓵𝔀𝓪𝔂𝓼 𝓬𝓾𝓻𝓲𝓸𝓾𝓼, </br>
