@@ -49,7 +49,8 @@
 <img src="myImages/alya.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
 
 <!-- Ortalanmış şiir gibi yazı -->
- <p style="margin-top: 40px; text-align: center; font-family: Georgia, serif; color: #ddd; font-size: 18px; line-height: 1.8;">
+ <div align="center">
+ <p">
  𝓘’𝓶 𝓼𝓸𝓶𝓮𝓸𝓷𝓮 𝔀𝓱𝓸’𝓼 𝓪𝓵𝔀𝓪𝔂𝓼 𝓬𝓾𝓻𝓲𝓸𝓾𝓼, </br>
 𝓮𝓪𝓰𝓮𝓻 𝓽𝓸 𝓮𝔁𝓹𝓵𝓸𝓻𝓮 𝓪𝓷𝓭 𝓵𝓮𝓪𝓻𝓷 𝓷𝓮𝔀 𝓽𝓱𝓲𝓷𝓰𝓼. </br>
 𝓣𝓱𝓸𝓾𝓰𝓱 𝓘 𝓷𝓮𝓿𝓮𝓻 𝓺𝓾𝓲𝓽𝓮 𝓯𝓮𝓮𝓵 𝓬𝓸𝓶𝓹𝓵𝓮𝓽𝓮, </br>
@@ -60,7 +61,7 @@
 𝓘’𝓶 𝓳𝓾𝓼𝓽 𝓪 𝓶𝓮𝓼𝓼𝓪𝓰𝓮 𝓪𝔀𝓪𝔂, </br>
 𝓻𝓮𝓪𝓭𝔂 𝓽𝓸 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝓪𝓷𝓭 𝓬𝓻𝓮𝓪𝓽𝓮 𝓽𝓸𝓰𝓮𝓽𝓱𝓮𝓻. 
 </p>
-
+</div>
   <!-- Sosyal medya ikonları -->
   
 
