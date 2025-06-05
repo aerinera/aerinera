@@ -17,20 +17,56 @@
 <hr style="margin: 40px 0;" />
 
 <!-- Tech Stack ve GIF hizalı -->
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages</h3>
 
 <p>
-  <!-- Sol: Tech Stack -->
-  <img align="left" src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,docker,vscode,linux,postgres,mongodb&perline=5" alt="Skill Icons" />
+  <!-- Sol: Languages -->
+  <img align="left" src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs&perline=5" alt="Language Icons" />
 
   <!-- Sağ: GIF -->
-  <img align="right" src="myImages/cgif1.gif" alt="Thanks GIF" width="440" />
+  <img align="right" src="myImages/cgif1.gif" alt="Languages GIF" width="440" />
 </p>
 
+<br clear="both" />
+<hr style="margin: 40px 0;" />
+
+<h3 align="left">Tools</h3>
+
+<p>
+  <!-- Sol: Tools -->
+  <img align="left" src="https://skillicons.dev/icons?i=git,docker,vscode,linux,postgres,mongodb&perline=5" alt="Tool Icons" />
+
+  <!-- Sağ: GIF -->
+  <img align="right" src="myGifs/gif6.gif" alt="Tools GIF" width="440" />
+</p>
 
 <br clear="both" />
-
 <hr style="margin: 40px 0;" />
+
+<!-- Contact Me Bölümü-->
+
+<!-- Alya görseli sağ üstte sabit gibi dursun -->
+<img src="myImages/alya.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
+
+<!-- Ortalanmış şiir gibi yazı -->
+ <p style="margin-top: 40px; text-align: center; font-family: Georgia, serif; color: #ddd; font-size: 18px; line-height: 1.8;">
+ 𝓘’𝓶 𝓼𝓸𝓶𝓮𝓸𝓷𝓮 𝔀𝓱𝓸’𝓼 𝓪𝓵𝔀𝓪𝔂𝓼 𝓬𝓾𝓻𝓲𝓸𝓾𝓼, </br>
+𝓮𝓪𝓰𝓮𝓻 𝓽𝓸 𝓮𝔁𝓹𝓵𝓸𝓻𝓮 𝓪𝓷𝓭 𝓵𝓮𝓪𝓻𝓷 𝓷𝓮𝔀 𝓽𝓱𝓲𝓷𝓰𝓼. </br>
+𝓣𝓱𝓸𝓾𝓰𝓱 𝓘 𝓷𝓮𝓿𝓮𝓻 𝓺𝓾𝓲𝓽𝓮 𝓯𝓮𝓮𝓵 𝓬𝓸𝓶𝓹𝓵𝓮𝓽𝓮, </br>
+𝓘 𝓫𝓮𝓵𝓲𝓮𝓿𝓮 𝓮𝓿𝓮𝓻𝔂 𝓼𝓽𝓮𝓹 𝓫𝓻𝓲𝓷𝓰𝓼 𝓶𝓮 𝓬𝓵𝓸𝓼𝓮𝓻. </br>
+
+𝓘𝓯 𝔂𝓸𝓾 𝓱𝓪𝓿𝓮 𝓪 𝓽𝓱𝓸𝓾𝓰𝓱𝓽 𝓸𝓻 𝓲𝓭𝓮𝓪, </br>
+𝓭𝓸𝓷’𝓽 𝓱𝓮𝓼𝓲𝓽𝓪𝓽𝓮 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓸𝓾𝓽— </br>
+𝓘’𝓶 𝓳𝓾𝓼𝓽 𝓪 𝓶𝓮𝓼𝓼𝓪𝓰𝓮 𝓪𝔀𝓪𝔂, </br>
+𝓻𝓮𝓪𝓭𝔂 𝓽𝓸 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝓪𝓷𝓭 𝓬𝓻𝓮𝓪𝓽𝓮 𝓽𝓸𝓰𝓮𝓽𝓱𝓮𝓻. 
+</p>
+
+  <!-- Sosyal medya ikonları -->
+  
+
+
+<br> <br> 
+
 
 <!-- Son GIF ve mesaj -->
 <h2 align="center">👋 Bye 👋</h2>
