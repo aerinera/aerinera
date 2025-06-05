@@ -1,10 +1,9 @@
 <body>
 
-<h1 align="center">⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙈𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️</h1>
 <br>
 <div align="center">
   <!-- Replace with your own futuristic/dark-themed banner GIF -->
-  <img src="myImages/swd2.png" />
+  <img src="myImages/swd3.png" />
 </div>
 <br>
 <img src="./image/line1.gif" alt="Divider" height="80px" width="100%" />
