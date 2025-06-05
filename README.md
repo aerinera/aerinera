@@ -8,7 +8,7 @@
 <!-- Tanıtım Yazısı -->
 <div align="center">
   <h3 align="center">About Me </h3>
-  <br/>
+ 
   <p>
     <strong>Hi, I'm Aerin — a full stack developer working with both frontend and backend technologies.</strong><br>
     I'm into JavaScript, Python, AI projects, and building clean, efficient systems.<br>
@@ -20,7 +20,7 @@
 
 <!-- Tech Stack ve GIF hizalı -->
 <h3 align="left">Languages</h3>
-<br>
+
 
 <p>
   <!-- Sol: Languages -->
