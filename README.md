@@ -1,16 +1,20 @@
+<!-- Banner -->
 <div align="center">
-
-<!-- Büyük banner resmi -->
-<img src="myGifs/bga3.gif" alt="Banner" width="45%" style="border-radius: 12px; margin: 5px 0;" />
-
+  <img src="myGifs/bga3.gif" alt="Banner" width="45%" style="border-radius: 12px; margin-top: 50px; margin-bottom: 30px;" />
 </div>
 
-<!-- Kısa tanıtım -->
-##### I'm Aerin, a full stack web developer and AI enthusiast.  
-##### Passionate about building clean, efficient code and exploring new technologies.  
-##### I love anime, tech, and good coffee.
+<hr style="margin: 40px 0;" />
 
----
+<!-- Tanıtım Yazısı -->
+<div align="center">
+  <p>
+    <strong>Hi, I'm Aerin — a full stack developer working with both frontend and backend technologies.</strong><br>
+    I'm into JavaScript, Python, AI projects, and building clean, efficient systems.<br>
+    Always exploring new tools, writing code, and occasionally getting lost in anime and coffee.
+  </p>
+</div>
+
+<hr style="margin: 40px 0;" />
 
 <!-- Tech Stack ve GIF hizalı -->
 <h3 align="center">Languages and Tools</h3>
@@ -23,14 +27,13 @@
   <img align="right" src="myImages/cgif1.gif" alt="Thanks GIF" width="440" />
 </p>
 
+
 <br clear="both" />
 
----
-
-<!-- GitHub İstatistikleri -->
+<hr style="margin: 40px 0;" />
 
 <!-- Son GIF ve mesaj -->
-## Thanks for stopping by!  
-<p align="center">
-  <img draggable="false" src="https://media.giphy.com/media/3ohs7KViFQAf3Fp8xi/giphy.gif" alt="Thank you" width="200" style="border-radius:12px;" />
-</p>
+<h2 align="center">👋 Bye 👋</h2>
+<div align="center" style="margin-top: 20px;">
+  <img src="myGifs/bye2.gif"/>
+</div>
