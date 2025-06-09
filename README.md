@@ -35,9 +35,8 @@
 
 <h3 align="left">Tools</h3>
 <p>
-  <!-- Left: Tools -->
-  <img align="left" src="https://skillicons.dev/icons?i=git,docker,vscode,linux,postgres,huggingface,openai,mongodb&perline=5" alt="Tool Icons" />
-
+  <!-- Tools & Tech I Actively Use -->
+<img align="left" src="https://skillicons.dev/icons?i=git,docker,vscode,linux,bash,python,csharp,dotnet,postgres,mongodb&perline=5" alt="Tool Icons" />
   <!-- Right: GIF -->
   <img align="right" src="myGifs/gif6.gif" alt="Tools GIF" width="440" />
 </p>
@@ -50,7 +49,6 @@
 <!-- Image  -->
 <img src="myImages/alya.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
 
-<!--yazı -->
  <div align="center">
  <p">
  𝓘’𝓶 𝓼𝓸𝓶𝓮𝓸𝓷𝓮 𝔀𝓱𝓸’𝓼 𝓪𝓵𝔀𝓪𝔂𝓼 𝓬𝓾𝓻𝓲𝓸𝓾𝓼, </br>
