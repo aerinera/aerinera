@@ -44,11 +44,10 @@
 <hr style="margin: 40px 0;" />
 
 <!-- Projects -->
-# 📂 My Projects
+## 📂 My Projects
 
-## <img src="myImages/pheebicon.png" width="80" align="absmiddle" hspace="12" /> Pheeb – AI Chat Discord Bot
+### <img src="myImages/pheebicon.png" width="80" align="absmiddle" hspace="12" alt="Pheeb Icon" /> Pheeb – AI Chat Discord Bot
 
-<br>
 
 
 ---
