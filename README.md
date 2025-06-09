@@ -69,13 +69,12 @@
     I'm just a message away.
   </i>
 </p>
-
+<br>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" alt="Discord" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
+  <a href="https://discord.com/users/12983811400501861" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" alt="Discord" />
+  </a> 
 </p>
-
 
 
 
