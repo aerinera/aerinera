@@ -26,7 +26,7 @@
 
 
 
-  <!-- Sağ: GIF -->
+  <!-- Right: GIF -->
   <img align="right" src="myImages/cgif1.gif" alt="Languages GIF" width="440" />
 </p>
 
@@ -35,17 +35,17 @@
 
 <h3 align="left">Tools</h3>
 <p>
-  <!-- Sol: Tools -->
+  <!-- Left: Tools -->
   <img align="left" src="https://skillicons.dev/icons?i=git,docker,vscode,linux,postgres,mongodb&perline=5" alt="Tool Icons" />
 
-  <!-- Sağ: GIF -->
+  <!-- Right: GIF -->
   <img align="right" src="myGifs/gif6.gif" alt="Tools GIF" width="440" />
 </p>
 
 <br clear="both" />
 <hr style="margin: 40px 0;" />
 
-<!-- Contact Me Bölümü-->
+<!-- Contact Me -->
 
 <!-- Image  -->
 <img src="myImages/alya.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
@@ -63,7 +63,7 @@
 𝓘’𝓶 𝓳𝓾𝓼𝓽 𝓪 𝓶𝓮𝓼𝓼𝓪𝓰𝓮 𝓪𝔀𝓪𝔂. </br> 
 
 <br>
- <!-- Sosyal medya ikonları -->
+ <!-- Social Media -->
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" alt="Discord" />
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
