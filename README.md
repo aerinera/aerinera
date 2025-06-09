@@ -48,7 +48,7 @@
 
 <h3>
   <img src="myImages/pheebicon.png" width="80" align="absmiddle" hspace="16" alt="Pheeb Icon" />
-  Pheeb – AI Chat Discord Bot
+  Pheeb – AI Discord Chat Bot
 </h3>
 
 <br>
