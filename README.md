@@ -44,22 +44,15 @@
 <hr style="margin: 40px 0;" />
 
 <!-- Projects -->
-<h2 align="left">📂 My Projects</h2>
+## 📂 My Projects
 
-<div style="display: flex; align-items: center; gap: 28px; margin-bottom: 40px;">
+<h3>
+  <img src="myImages/pheebicon.png" width="80" align="absmiddle" hspace="16" alt="Pheeb Icon" />
+  Pheeb – AI Chat Discord Bot
+</h3>
 
-  <!-- Sol: Yuvarlak ikon -->
-  <img src="myImages/pheebicon.png" alt="pheeb icon" width="100" height="100"
-       style="border-radius: 50%; object-fit: cover;" />
+<br>
 
-  <!-- Sağ: Proje adı ortalanmış ve büyük -->
-  <span style="font-size: 24px; font-weight: bold; font-family: 'Segoe UI', sans-serif;">
-    pheeb-ai-chatbot
-  </span>
-
-</div>
-
-<br><br><br>
 
 ---
 
