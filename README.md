@@ -46,7 +46,10 @@
 <!-- Projects -->
 ## 📂 My Projects
 
-### <img src="myImages/pheebicon.png" width="80" align="absmiddle" hspace="12" alt="Pheeb Icon" /> Pheeb – AI Chat Discord Bot
+### <a href="https://github.com/aerinera/pheeb-ai-chatbot" target="_blank"><img src="myImages/pheebicon.png" width="80" align="absmiddle" hspace="12" alt="Pheeb Icon" /></a> Pheeb – AI Chat Discord Bot
+
+### <a href="https://github.com/aerinera/yumeta" target="_blank"><img src="myImages/yumeta.png" width="80" align="absmiddle" hspace="12" alt="Yumeta Icon" /></a> Yumeta — A Shared Anime & Manga Universe
+
 
 
 
