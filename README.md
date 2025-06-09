@@ -18,7 +18,7 @@
 
 <hr style="margin: 40px 0;" />
 
-<!-- Tech Stack ve GIF hizalı -->
+<!-- Tech Stack GIF  -->
 <h3 align="left">Languages</h3>
 <p>
   <!-- Sol: Languages -->
@@ -33,9 +33,8 @@
 <br clear="both" />
 <hr style="margin: 40px 0;" />
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools & Tech</h3>
 <p>
-  <!-- Tools & Tech I Actively Use -->
 <img align="left" src="https://skillicons.dev/icons?i=git,docker,vscode,linux,bash,python,csharp,dotnet,postgres,mongodb&perline=5" alt="Tool Icons" />
   <!-- Right: GIF -->
   <img align="right" src="myGifs/gif6.gif" alt="Tools GIF" width="440" />
