@@ -35,7 +35,7 @@
 
 <h3 align="left">Tools & Tech</h3>
 <p>
-<img align="left" src="https://skillicons.dev/icons?i=git,docker,vscode,bash,dotnet,postgres,mongodb&perline=5" alt="Tool Icons" />
+<img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,bash,dotnet,mysql,postgres,mongodb&perline=5" alt="Tool Icons" />
   <!-- Right: GIF -->
   <img align="right" src="myGifs/gif6.gif" alt="Tools GIF" width="440" />
 </p>
