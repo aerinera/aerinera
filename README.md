@@ -98,5 +98,5 @@ As time allows, I’ll be uploading fun, cozy, and heartwarming projects that re
     Thanks for stopping by. More cozy & creative projects coming soon 🌙
   </h3>
   <br>
-  <img width="360px" src="myImages/froversmile.png" alt="Smiling Character" />
+  <img width="500px" src="myImages/carthe.png" alt="Smiling Character" />
 </div>
