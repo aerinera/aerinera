@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="myGifs/bga3.gif" alt="Banner" width="45%" style="border-radius: 12px; margin-top: 50px; margin-bottom: 30px;" />
+  <img src="myImages/wuwabg1.jpg" alt="Banner" width="70%" style="border-radius: 12px; margin-top: 50px; margin-bottom: 30px;" />
 </div>
 
 <hr style="margin: 40px 0;" />
@@ -27,7 +27,7 @@
 
 
   <!-- Right: GIF -->
-  <img align="right" src="myImages/cgif1.gif" alt="Languages GIF" width="440" />
+  <img align="right" src="myImages/roversticker.png" width="300px" alt="Languages GIF" width="440" />
 </p>
 
 <br clear="both" />
@@ -37,7 +37,7 @@
 <p>
 <img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,bots,wordpress,supabase,bash,dotnet,mysql,postgres,mongodb&perline=5" alt="Tool Icons" />
   <!-- Right: GIF -->
-  <img align="right" src="myGifs/gif6.gif" alt="Tools GIF" width="440" />
+  <img align="right" src="myImages/roverok.png" width="300px" alt="Tools GIF" width="440" />
 </p>
 
 <br clear="both" />
@@ -89,5 +89,5 @@
   <hr style="margin: 40px 0;" />
   <h3 align="center">👋 Bye👋 </h3>
   <br>
-  <img src="myGifs/bye2.gif"/>
+  <img  width="400px"src="myImages/froversmile.png"/>
 </div>
