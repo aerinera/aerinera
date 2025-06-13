@@ -56,7 +56,7 @@
 ---
 
 <!-- Contact Me -->
-<img src="myImages/alya.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
+<img src="myImages/rovercool.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
 
 <p align="center">
   <i>
@@ -82,7 +82,7 @@
 
  
 
-<!-- Son GIF ve mesaj -->
+<!-- Byee -->
 
 
 <div align="center" style="margin-top: 20px;">
