@@ -8,11 +8,18 @@
 <!-- Tanıtım Yazısı -->
 <div align="center">
   <h3 align="center">About Me </h3>
- 
+ <hr style="margin: 40px 0;" />
+
   <p>
-    <strong>Hi, I'm Aerin — a full stack developer working with both frontend and backend technologies.</strong><br>
-    I'm into JavaScript, Python, AI projects, and building clean, efficient systems.<br>
-    Always exploring new tools, writing code, and occasionally getting lost in anime and coffee.
+<strong>Hey, I'm Aerin.</strong><br>
+A full stack developer who enjoys building thoughtful systems — sometimes through frontend animations, sometimes through backend logic.<br>
+Currently focused on <strong>AI-integrated applications</strong> and <strong>emotionally-aware characters</strong> that respond with nuance and personality.<br>
+<br>
+Beyond code, I spend time immersed in <em>Wuthering Waves</em>, get lost in anime, and drift through imagined worlds where fantasy and emotion meet.  
+These quiet obsessions inspire the interfaces I design and the architectures I build.<br>
+<br>
+Still learning, still evolving — one commit, one story, one dream at a time.<br>
+As time allows, I’ll be uploading fun, cozy, and heartwarming projects that reflect a part of me.
   </p>
 </div>
 
@@ -85,9 +92,11 @@
 <!-- Byee -->
 
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 40px;">
   <hr style="margin: 40px 0;" />
-  <h3 align="center">👋 Bye👋 </h3>
+  <h3 align="center" style="font-weight: normal; font-family: 'Segoe UI', sans-serif;">
+    Thanks for stopping by. More cozy & creative projects coming soon 🌙
+  </h3>
   <br>
-  <img  width="400px"src="myImages/froversmile.png"/>
+  <img width="360px" src="myImages/froversmile.png" alt="Smiling Character" />
 </div>
