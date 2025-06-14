@@ -34,7 +34,7 @@ As time allows, I’ll be uploading fun, cozy, and heartwarming projects that re
 
 
   <!-- Right: GIF -->
-  <img align="right" src="myImages/gojoreading.png" width="300px" alt="Languages GIF" width="440" />
+  <img align="right" src="myImages/roversticker.png" width="300px" alt="Languages GIF" width="440" />
 </p>
 
 <br clear="both" />
@@ -44,7 +44,7 @@ As time allows, I’ll be uploading fun, cozy, and heartwarming projects that re
 <p>
 <img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,bots,wordpress,supabase,bash,dotnet,mysql,postgres,mongodb&perline=5" alt="Tool Icons" />
   <!-- Right: GIF -->
-  <img align="right" src="myImages/roversticker.png" width="300px" alt="Tools GIF" width="440" />
+  <img align="right" src="myImages/roverok.png" width="300px" alt="Tools GIF" width="440" />
 </p>
 
 <br clear="both" />
@@ -63,7 +63,7 @@ As time allows, I’ll be uploading fun, cozy, and heartwarming projects that re
 ---
 
 <!-- Contact Me -->
-<img src="myImages/gojocool.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
+<img src="myImages/rovercool.png" width="270px" align="right" style="margin-left: 20px; border-radius: 14px; opacity: 0.96;" />
 
 <p align="center">
   <i>
